@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7f7c7b1-fcfc-4846-bb8c-1fd84cc8da8e" name="Changes" comment="new commit">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeMillionaireTonight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuestionRepositoryLevel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuestionRepositoryLevel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuestionRepositoryLevel3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/BeMillionaireTonight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/Game1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/Game2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/Game3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/QuestionRepositoryLevel1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/QuestionRepositoryLevel2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BeMillionaireTonight/QuestionRepositoryLevel3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GZhpsbcnZb8FvIQULROEotaxDA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Dávid/Desktop/BeMillionaireTonight/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f7c7b1-fcfc-4846-bb8c-1fd84cc8da8e" name="Changes" comment="" />
+      <created>1666602199074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666602199074</updated>
+      <workItem from="1666602200320" duration="262000" />
+      <workItem from="1666602546400" duration="2154000" />
+      <workItem from="1666893375760" duration="617000" />
+      <workItem from="1666936103187" duration="1301000" />
+      <workItem from="1667050788908" duration="1325000" />
+      <workItem from="1667062096194" duration="1049000" />
+      <workItem from="1667485525798" duration="629000" />
+      <workItem from="1667853113628" duration="1938000" />
+    </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1666602403072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666602403072</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1667853720695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667853720695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
+</project>
